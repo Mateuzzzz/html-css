@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+
+body{
+    background-color:#657BEB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    color: #34469E;
+}
+
+p{
+    text-align: justify;
+    text-indent: 16px;
+}
+
+#principal{
+    text-align: center;
+    background-color: #A9B8FF;
+    color: #9E8024;
+    font-weight: 900;
+}
+
+.basico{
+    color: #3cB05e;
+    font-weight: bold;
+}
+
+.intermediario{
+    color: #EBCA65;
+    font-weight: bold;
+}
+
+.avançado{
+    color: #803c3c;
+    font-weight: bold;
+}
+
+.destaque{
+    background-color: #c5c56070;
+}
